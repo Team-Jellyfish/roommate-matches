@@ -1,0 +1,59 @@
+body{
+	background-image: url("match.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1, h2{
+	text-align: center;
+	font-family: calibri;
+	
+	color: teal;
+}
+th{
+	text-align:center;
+	width: 20%;
+	padding: 10px;
+}
+.r{
+	width: 20%;
+	border: 3px solid black;
+	border-radius: 50px;
+	background-color: white;
+}
+table{
+	width: 100%;
+	padding: 10px;
+	
+}
+td{
+	text-align:center;
+	
+}
+
+#left{
+	float: left;
+}
+#right{
+	float: right;
+}
+#lef{
+	float: left;
+	border: none;
+	background-color: transparent;
+}
+#rig{
+	float: right;
+	border: none;
+	background-color: transparent;
+}
+#ri{
+	float:right;
+	border: none;
+	background-color: transparent;
+}
+#left1{
+	float: left;
+}
+#right1{
+	float: right;
+}
